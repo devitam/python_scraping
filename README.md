@@ -31,5 +31,7 @@ Gráficos a hacer:
 Se entregan 3 archivos en GitHub (Poner link en la entrega de la tarea):
 
 LaTeX con consignas 1 y 2
+
 GIF con consigna 3
+
 Archivo archivo .py (Inicial.py) para bajar lo de weather para los zipcodes correspondientes.
