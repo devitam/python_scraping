@@ -3,7 +3,7 @@
 #### Pasos
 1) Buscar zipcodes https://www.zipcodestogo.com/Maryland/ (copiar y pegar en Excel, después en Stata - líneas 3 a 11 del do file de Stata)
 
-HECHO con código de python en vez de copiar y pegar de la página. Adjuntamos el código con comentarios.
+HECHO con código de python en vez de copiar y pegar de la página. Adjuntamos el código con comentarios (zipcodes.py).
 
 2) Bajar datos de crimen de https://odn.data.socrata.com/dataset/National-Police-Department-Crime-Rates-by-Month-Ye/tt5s-y5fc (hecho en clase llamado crime.csv). Quedarse con los datos de 2015 y el estado MD, guardar como MD_crime.dta (líneas 14 a 22 del do file de Stata).
 
