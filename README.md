@@ -1,4 +1,4 @@
-# python_scraping
+# Python scrapping
 
 #### Pasos
 1) Buscar zipcodes https://www.zipcodestogo.com/Maryland/ (copiar y pegar en Excel, después en Stata - líneas 3 a 11 del do file de Stata)
